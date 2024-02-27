@@ -1,11 +1,11 @@
 {
-    "Heading at the top": {
+    "page.heading": {
         "Hi there!": "Hi there!"
     },
-    "Call to action": {
+    "page.body.calltoaction": {
         "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?"
     },
-    "Text at the beginning of button": {
+    "page.button.start": {
         "Click Here to Send a": "Click Here to Send a"
     },
     "Messenger Button": {
