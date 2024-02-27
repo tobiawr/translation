@@ -1,1 +1,19 @@
-
+{
+    "page": {
+        "heading": "Hi there!"
+    },
+    "page.body": {
+        "call2action": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?"
+    },
+    "page.body.button.call2action": {
+        "start": "Click Here to Send a",
+        "end": "!"
+    },
+    "page.body.button.channel": {
+        "whatsapp": "WhatsApp Message",
+        "textmessage": "Text Message (US Only)",
+        "telegram": "Telegram Message",
+        "viber": "Viber Message",
+        "messenger": "Facebook Messenger"
+    }
+}
