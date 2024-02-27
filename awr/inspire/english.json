@@ -1,17 +1,65 @@
-{
-    "page.heading": {
-        "Hi there!": "Hi there!"
+[
+    {
+        "term": "Hi there!",
+        "definition": "Hi there!",
+        "context": "page.heading",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 1
     },
-    "page.body.calltoaction": {
-        "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?"
+    {
+        "term": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?",
+        "definition": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?",
+        "context": "page.body.calltoaction",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
     },
-    "page.button.start": {
-        "Click Here to Send a": "Click Here to Send a"
+    {
+        "term": "Click Here to Send a",
+        "definition": "Click Here to Send a",
+        "context": "page.button.start",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
     },
-    "Messenger Button": {
-        "WhatsApp Message": "WhatsApp Message",
-        "Text Message (US Only)": "Text Message (US Only)",
-        "Telegram Message": "Telegram Message",
-        "Viber Message": "Viber Message"
+    {
+        "term": "WhatsApp Message",
+        "definition": "WhatsApp Message",
+        "context": "Messenger Button",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Text Message (US Only)",
+        "definition": "Text Message (US Only)",
+        "context": "Messenger Button",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Telegram Message",
+        "definition": "Telegram Message",
+        "context": "Messenger Button",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
+    },
+    {
+        "term": "Viber Message",
+        "definition": "Viber Message",
+        "context": "Messenger Button",
+        "term_plural": "",
+        "reference": "",
+        "comment": "",
+        "fuzzy": 0
     }
-}
+]
