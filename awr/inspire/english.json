@@ -1,1 +1,17 @@
-
+{
+    "Heading at the top": {
+        "Hi there!": "Hi there!"
+    },
+    "Call to action": {
+        "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?": "Can I pray for you, answer your Bible questions or guide you through a series of helpful Bible topics?"
+    },
+    "Text at the beginning of button": {
+        "Click Here to Send a": "Click Here to Send a"
+    },
+    "Messenger Button": {
+        "WhatsApp Message": "WhatsApp Message",
+        "Text Message (US Only)": "Text Message (US Only)",
+        "Telegram Message": "Telegram Message",
+        "Viber Message": "Viber Message"
+    }
+}
