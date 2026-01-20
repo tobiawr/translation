@@ -3,12 +3,12 @@
         "greetings": "Greetings",
         "prayer-requests": "Prayer Requests",
         "bible-questions": "Bible Questions",
-        "resources": "Resouces",
+        "resources": "Resources",
         "links": "Links for Giveaways"
     },
     "kb.greetings": {
         "general": "General Introduction",
-        "general.content": "Hi, {contact}. Thank you for reaching out. My name is {user}, and I am one of the volunteers of Adventist World Radio. How are you? Is there something I can pray for you or help you with a Bible answer? Please don't hesitate to let me know.\n",
+        "general.content": "Hi, {contact}. Thank you for reaching out. My name is {user}, and it is my passion to connect people with Jesus. How are you? Is there something I can pray for you or help you with a Bible answer? Please don't hesitate to let me know.\n",
         "short": "Short Introduction",
         "short.content": "Hi, {contact}! My name is {user}. It is good to meet you! If you have any prayer requests or Bible questions, just let me know.\n",
         "prayer": "Prayer Introduction",
