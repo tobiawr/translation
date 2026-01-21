@@ -1,0 +1,464 @@
+{
+    "kb": {
+        "greetings": "",
+        "prayer-requests": "",
+        "bible-questions": "",
+        "resources": "",
+        "links": ""
+    },
+    "kb.greetings": {
+        "general": "",
+        "general.content": "",
+        "short": "",
+        "short.content": "",
+        "prayer": "",
+        "prayer.content": "",
+        "first-message": "",
+        "first-message.content": "",
+        "follow-up-1": "",
+        "follow-up-1.content": "",
+        "follow-up-2": "",
+        "follow-up-2.content": ""
+    },
+    "kb.prayer-requests": {
+        "prayers": "",
+        "promises": "",
+        "songs": "",
+        "intro-to-prayers": ""
+    },
+    "kb.prayer-requests.prayers": {
+        "healing": "",
+        "comfort": "",
+        "marriage": "",
+        "family": ""
+    },
+    "kb.prayer-requests.prayers.healing": {
+        "god-restores": "",
+        "god-restores.content": "",
+        "god-hears": "",
+        "god-hears.content": "",
+        "nothing-too-hard": "",
+        "nothing-too-hard.content": ""
+    },
+    "kb.prayer-requests.prayers.comfort": {
+        "perfect-peace": "",
+        "perfect-peace.content": "",
+        "broken-heart": "",
+        "broken-heart.content": "",
+        "never-alone": "",
+        "never-alone.content": ""
+    },
+    "kb.prayer-requests.prayers.marriage": {
+        "show-love": "",
+        "show-love.content": "",
+        "kind-words": "",
+        "kind-words.content": "",
+        "serve-another": "",
+        "serve-another.content": ""
+    },
+    "kb.prayer-requests.prayers.family": {
+        "love": "",
+        "love.content": "",
+        "peace": "",
+        "peace.content": "",
+        "harmony": "",
+        "harmony.content": ""
+    },
+    "kb.prayer-requests.promises": {
+        "financial-issues": "",
+        "guidance": "",
+        "strength": "",
+        "peace": "",
+        "freedom": "",
+        "loneliness": "",
+        "protection": "",
+        "help": "",
+        "god-is-faithful": "",
+        "christian-life": ""
+    },
+    "kb.prayer-requests.promises.financial-issues": {
+        "ask-god": "",
+        "ask-god.content": "",
+        "god-blesses": "",
+        "god-blesses.content": "",
+        "god-is-concerned": "",
+        "god-is-concerned.content": ""
+    },
+    "kb.prayer-requests.promises.guidance": {
+        "need-wisdom": "",
+        "need-wisdom.content": "",
+        "god-teaches": "",
+        "god-teaches.content": "",
+        "continual-guidance": "",
+        "continual-guidance.content": ""
+    },
+    "kb.prayer-requests.promises.strength": {
+        "nothing-is-impossible": "",
+        "nothing-is-impossible.content": "",
+        "god-strengthens": "",
+        "god-strengthens.content": "",
+        "strength-in-trouble": "",
+        "strength-in-trouble.content": ""
+    },
+    "kb.prayer-requests.promises.peace": {
+        "listening-to-god-brings-peace": "",
+        "listening-to-god-brings-peace.content": "",
+        "rest": "",
+        "rest.content": "",
+        "peace-and-trust-in-god": "",
+        "peace-and-trust-in-god.content": ""
+    },
+    "kb.prayer-requests.promises.freedom": {
+        "conquerors": "",
+        "conquerors.content": "",
+        "rescue-from-temptation": "",
+        "rescue-from-temptation.content": "",
+        "freedom-from-satan": "",
+        "freedom-from-satan.content": ""
+    },
+    "kb.prayer-requests.promises.loneliness": {
+        "not-forsaken": "",
+        "never-leave-you": "",
+        "never-leave-you.content": "",
+        "draw-near": "",
+        "draw-near.content": "",
+        "god-is-present": "",
+        "god-is-present.content": "",
+        "forsaken-by-family": "",
+        "forsaken-by-family.content": ""
+    },
+    "kb.prayers.promises.loneliness.not-forsaken": {
+        "not-forsaken.content": ""
+    },
+    "kb.prayers.promises.protection": {
+        "wherever-you-go": ""
+    },
+    "kb.prayer-requests.promises.protection": {
+        "wherever-you-go.content": "",
+        "dwell-in-safety": "",
+        "dwell-in-safety.content": "",
+        "refuge-and-help": "",
+        "refuge-and-help.content": ""
+    },
+    "kb.prayer-requests.promises.help": {
+        "count-on-god": "",
+        "count-on-god.content": "",
+        "do-not-fear": "",
+        "do-not-fear.content": "",
+        "times-of-trouble": "",
+        "times-of-trouble.content": ""
+    },
+    "kb.prayer-requests.promises.god-is-faithful": {
+        "god-does-what-he-says": "",
+        "not-slow-but-patient": "",
+        "not-slow-but-patient.content": "",
+        "here-i-am": "",
+        "here-i-am.content": ""
+    },
+    "kb.prayer-requests.promises.god-is-faithful.god-does-what-he-says": {
+        "god-does-what-he-says.content": ""
+    },
+    "kb.prayer-requests.promises.christian-life": {
+        "receive-power": "",
+        "receive-power.content": "",
+        "words-for-weary-ones": "",
+        "words-for-weary-ones.content": "",
+        "toil-is-not-in-vain": "",
+        "toil-is-not-in-vain.content": ""
+    },
+    "kb.prayer-requests.songs": {
+        "hope": "",
+        "guidance": "",
+        "anxiety": ""
+    },
+    "kb.prayer-requests.songs.hope": {
+        "my-hope-is-in-the-lord": "",
+        "my-hope-is-in-the-lord.content": "",
+        "the-borrowed-tomb": "",
+        "the-borrowed-tomb.content": "",
+        "god-is-there": "",
+        "god-is-there.content": "",
+        "no-more-night": "",
+        "no-more-night.content": ""
+    },
+    "kb.prayer-requests.songs.guidance": {
+        "each-day-i-live": "",
+        "each-day-i-live.content": "",
+        "gentle-shepherd": "",
+        "gentle-shepherd.content": ""
+    },
+    "kb.prayer-requests.songs.anxiety": {
+        "god-will-take-care-of-you": "",
+        "god-will-take-care-of-you.content": "",
+        "i-love-you-anyway": "",
+        "i-love-you-anyway.content": "",
+        "when-i-cry": "",
+        "when-i-cry.content": ""
+    },
+    "kb.bible-questions": {
+        "baptism": "",
+        "christian-women": "",
+        "death-and-immortality": "",
+        "doctrines": "",
+        "festivities-holidays-ordinances": "",
+        "hell": "",
+        "holy-spirit": "",
+        "mark-of-the-beast": "",
+        "marriage-family": "",
+        "prayer-and-fasting": "",
+        "sabbath": "",
+        "sex-and-sexuality": "",
+        "sin-forgiveness": "",
+        "tithes-and-offerings": "",
+        "trinity": "",
+        "pending-bible-question": "",
+        "pending-bible-question.content": ""
+    },
+    "kb.bible-questions.baptism": {
+        "infant-baptism": "",
+        "infant-baptism.content": "",
+        "rebaptism": "",
+        "rebaptism.content": "",
+        "purpose-of-baptism": "",
+        "purpose-of-baptism.content": ""
+    },
+    "kb.bible-questions.christian-women": {
+        "should-women-preach": "",
+        "should-women-preach.content": ""
+    },
+    "kb.bible-questions.death-and-immortality": {
+        "cremation-and-resurrection": "",
+        "cremation-and-resurrection.content": "",
+        "thief-on-the-cross": "",
+        "thief-on-the-cross.content": "",
+        "revelation-6": "",
+        "revelation-6.content": "",
+        "suicide-bible-texts": "",
+        "suicide-bible-texts.content": "",
+        "sleep-and-death": "",
+        "sleep-and-death.content": "",
+        "what-happens-when-a-person-dies": "",
+        "what-happens-when-a-person-dies.content": "",
+        "what-is-a-soul": "",
+        "what-is-a-soul.content": ""
+    },
+    "kb.bible-questions.doctrines": {
+        "predestination": "",
+        "predestination.content": ""
+    },
+    "kb.bible-questions.festivities-holidays-ordinances": {
+        "dancing-and-worship": "",
+        "dancing-and-worship.content": "",
+        "why-do-sda-celebrate-communion-once-every-quarter": "",
+        "why-do-sda-celebrate-communion-once-every-quarter.content": ""
+    },
+    "kb.bible-questions.hell": {
+        "eternal-fire": "",
+        "eternal-fire.content": "",
+        "how-to-avoid-hell": "",
+        "how-to-avoid-hell.content": "",
+        "is-hell-real": "",
+        "is-hell-real.content": "",
+        "where-is-hell-located": "",
+        "where-is-hell-located.content": ""
+    },
+    "kb.bible-questions.holy-spirit": {
+        "speaking-in-tongues": "",
+        "speaking-in-tongues.content": "",
+        "biblical-facts-about-tongues": "",
+        "biblical-facts-about-tongues.content": "",
+        "background-of-tongues-in-1-cor-12": "",
+        "background-of-tongues-in-1-cor-12.content": ""
+    },
+    "kb.bible-questions.mark-of-the-beast": {
+        "are-sunday-keepers-doomed": "",
+        "are-sunday-keepers-doomed.content": ""
+    },
+    "kb.bible-questions.marriage-family": {
+        "what-does-the-bible-say-about-marriage": "",
+        "what-does-the-bible-say-about-marriage.content": "",
+        "adultery-and-divorce": "",
+        "adultery-and-divorce.content": ""
+    },
+    "kb.bible-questions.prayer-and-fasting": {
+        "why-doesnt-god-answer-my-prayers": "",
+        "why-doesnt-god-answer-my-prayers.content": "",
+        "obtaining-the-lord's-blessing": "",
+        "obtaining-the-lord's-blessing.content": ""
+    },
+    "kb.bible-questions.sabbath": {
+        "how-to-keep-the-sabbath-holy": "",
+        "how-to-keep-the-sabbath-holy.content": "",
+        "is-jesus-the-sabbath": "",
+        "is-jesus-the-sabbath.content": "",
+        "proofs-that-saturday-is-the-seventh-day-sabbath": "",
+        "proofs-that-saturday-is-the-seventh-day-sabbath.content": "",
+        "sabbath-in-colossians-2-16": "",
+        "sabbath-in-colossians-2-16.content": "",
+        "what-time-is-the-sabbath": "",
+        "what-time-is-the-sabbath.content": "",
+        "which-day-is-the-sabbath": "",
+        "which-day-is-the-sabbath.content": "",
+        "who-changed-the-sabbath-to-sunday": "",
+        "who-changed-the-sabbath-to-sunday.content": "",
+        "why-many-christians-keep-sunday-as-a-day-of-worship": "",
+        "why-many-christians-keep-sunday-as-a-day-of-worship.content": ""
+    },
+    "kb.bible-questions.sex-and-sexuality": {
+        "homosexuality": "",
+        "homosexuality.content": ""
+    },
+    "kb.bible-questions.sin-forgiveness": {
+        "what-is-the-unpardonable-sin": "",
+        "what-must-i-do-to-be-saved": "",
+        "can-god-forgive-me": "",
+        "can-god-forgive-me.content": ""
+    },
+    "kb.bible-questions.sin-forgiveness.what-is-the-unpardonable-sin": {
+        "what-is-the-unpardonable-sin.content": ""
+    },
+    "kb.bible-questions.sin-forgiveness.what-must-i-do-to-be-saved": {
+        "what-must-i-do-to-be-saved.content": ""
+    },
+    "kb.bible-questions.tithes-and-offerings": {
+        "offerings-that-god-accepts": "",
+        "offerings-that-god-accepts.content": "",
+        "what-is-the-tithe": "",
+        "what-is-the-tithe.content": "",
+        "didn’t-jesus-abolish-the-plan-of-tithing": "",
+        "didn’t-jesus-abolish-the-plan-of-tithing.content": "",
+        "god's-proposal-about-tithing": "",
+        "god's-proposal-about-tithing.content": "",
+        "who-really-receives-our-tithe": "",
+        "who-really-receives-our-tithe.content": "",
+        "relationship-of-tithing-and-trust": "",
+        "relationship-of-tithing-and-trust.content": "",
+        "what-is-offering-for": "",
+        "what-is-offering-for.content": "",
+        "how-much-to-give-as-offerings": "",
+        "how-much-to-give-as-offerings.content": ""
+    },
+    "kb.bible-questions.trinity": {
+        "knowing-god": "",
+        "knowing-god.content": "",
+        "trinity-in-the-old-testament": "",
+        "trinity-in-the-new-testament": "",
+        "trinity-in-the-new-testament.content": "",
+        "trinity-one-meaning": "",
+        "trinity-one-meaning.content": "",
+        "trinity-manifested-in-nature": "",
+        "trinity-manifested-in-nature.content": ""
+    },
+    "kb.bible-questions.trinity.trinity-in-the-old-testament": {
+        "trinity-in-the-old-testament.content": ""
+    },
+    "kb.resources": {
+        "28-fundamental-beliefs": ""
+    },
+    "kb.resources.28-fundamental-beliefs": {
+        "introduction": "",
+        "introduction.content": "",
+        "who-are-seventh-day-adventists": "",
+        "who-are-seventh-day-adventists.content": "",
+        "1-holy-scriptures": "",
+        "1-holy-scriptures.content": "",
+        "2-the-trinity": "",
+        "2-the-trinity.content": "",
+        "3-god-the-father": "",
+        "3-god-the-father.content": "",
+        "4-god-the-son": "",
+        "4-god-the-son.content": "",
+        "5-god-the-holy-spirit": "",
+        "5-god-the-holy-spirit.content": "",
+        "6-creation": "",
+        "6-creation.content": "",
+        "7-nature-of-humanity": "",
+        "7-nature-of-humanity.content": "",
+        "8-the-great-controversy": "",
+        "8-the-great-controversy.content": "",
+        "9-the-life-death-and-resurrection-of-christ": "",
+        "9-the-life-death-and-resurrection-of-christ.content": "",
+        "10-the-experience-of-salvation": "",
+        "10-the-experience-of-salvation.content": "",
+        "11-growing-in-christ": "",
+        "11-growing-in-christ.content": "",
+        "12-the-church": "",
+        "12-the-church.content": "",
+        "13-the-remnant-and-its-mission": "",
+        "13-the-remnant-and-its-mission.content": "",
+        "14-unity-in-the-body-of-christ": "",
+        "14-unity-in-the-body-of-christ.content": "",
+        "15-baptism": "",
+        "15-baptism.content": "",
+        "16-the-lord's-supper": "",
+        "16-the-lord's-supper.content": "",
+        "17-spiritual-gifts-and-ministries": "",
+        "17-spiritual-gifts-and-ministries.content": "",
+        "18-the-gift-of-prophecy": "",
+        "18-the-gift-of-prophecy.content": "",
+        "19-the-law-of-god": "",
+        "19-the-law-of-god.content": "",
+        "20-the-sabbath": "",
+        "20-the-sabbath.content": "",
+        "21-stewardship": "",
+        "21-stewardship.content": "",
+        "22-christian-behavior": "",
+        "22-christian-behavior.content": "",
+        "23-marriage-and-the-family": "",
+        "23-marriage-and-the-family.content": "",
+        "24-christ's-ministry-in-the-heavenly-sanctuary": "",
+        "24-christ's-ministry-in-the-heavenly-sanctuary.content": "",
+        "25-the-second-coming-of-christ": "",
+        "25-the-second-coming-of-christ.content": "",
+        "26-death-and-resurrection": "",
+        "26-death-and-resurrection.content": "",
+        "27-the-millennium-and-the-end-of-sin": "",
+        "27-the-millennium-and-the-end-of-sin.content": "",
+        "28-the-new-earth": "",
+        "28-the-new-earth.content": ""
+    },
+    "kb.links": {
+        "bible-marking-plan": "",
+        "bible-marking-plan.content": "",
+        "steps-to-christ": "",
+        "steps-to-christ.content": "",
+        "great-controversy": "",
+        "great-controversy.content": "",
+        "hope-for-troubled-times": "",
+        "hope-for-troubled-times.content": "",
+        "humble-hero": "",
+        "humble-hero.content": "",
+        "resurrection-chart": "",
+        "resurrection-chart.content": "",
+        "prophetic-symbols-chart": "",
+        "prophetic-symbols-chart.content": "",
+        "more-books": "",
+        "more-books.content": "",
+        "the-great-controvery-website": "",
+        "the-great-controvery-website.content": "",
+        "bible-reading-plan": "",
+        "bible-reading-plan.content": "",
+        "chart-link-end-time-events": "",
+        "chart-link-end-time-events.content": "",
+        "chart-of-prophetic-symbols": "",
+        "chart-of-prophetic-symbols.content": "",
+        "introduction-of-pagan-practices": "",
+        "introduction-of-pagan-practices.content": "",
+        "prophecies-of-hope-youtube-links": "",
+        "prophecies-of-hope-youtube-links.content": "",
+        "human-sexuality-issues": "",
+        "human-sexuality-issues.content": ""
+    },
+    "kb.intro-to-prayers": {
+        "option-1": "",
+        "option-1.content": "",
+        "option-2": "",
+        "option-2.content": "",
+        "option-3": "",
+        "option-3.content": "",
+        "option-4": "",
+        "option-4.content": "",
+        "option-5": "",
+        "option-5.content": ""
+    }
+}
