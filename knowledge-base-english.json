@@ -451,7 +451,7 @@
     },
     "kb.intro-to-prayers": {
         "option-1": "Option 1",
-        "option-1.content": "We appreciate you sharing your prayer request with us, ﻿﻿{contact}. At this time, we would like to offer a prayer for you:",
+        "option-1.content": "We appreciate you sharing your prayer request with us, {contact}. At this time, we would like to offer a prayer for you:",
         "option-2": "Option 2",
         "option-2.content": "Thank you for entrusting your prayer request to us, ﻿﻿{contact}. Let us come to God and bring all these things to the foot of the cross. Let us pray:",
         "option-3": "Option 3",
