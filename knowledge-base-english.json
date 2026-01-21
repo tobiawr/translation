@@ -3,18 +3,22 @@
         "greetings": "Greetings",
         "prayer-requests": "Prayer Requests",
         "bible-questions": "Bible Questions",
-        "resources": "Resources",
+        "resources": "Resouces",
         "links": "Links for Giveaways"
     },
     "kb.greetings": {
         "general": "General Introduction",
-        "general.content": "Hi, {contact}. Thank you for reaching out. My name is {user}, and it is my passion to connect people with Jesus. How are you? Is there something I can pray for you or help you with a Bible answer? Please don't hesitate to let me know.\n",
+        "general.content": "Hi, {contact}. Thank you for reaching out. My name is {user}, and I am one of the volunteers of Adventist World Radio. How are you? Is there something I can pray for you or help you with a Bible answer? Please don't hesitate to let me know.\n",
         "short": "Short Introduction",
         "short.content": "Hi, {contact}! My name is {user}. It is good to meet you! If you have any prayer requests or Bible questions, just let me know.\n",
         "prayer": "Prayer Introduction",
         "prayer.content": "Hi, {contact}. Thank you for reaching us in your need of prayer. I am {user} and am glad to be your prayer partner. Please let me pray with you now.\n",
         "first-message": "First Message",
-        "first-message.content": "Hello, {contact}. Thank you for reaching out ot us. How may we help you today?"
+        "first-message.content": "Hello, {contact}. Thank you for reaching out ot us. How may we help you today?",
+        "follow-up-1": "Follow Up 1",
+        "follow-up-1.content": "Hello, friend! It’s been a while since we last connected, and we’d like to know how you’ve been doing lately.\n\nWe are here to share a gentle reminder from God’s Word with you today: \"Cast all your anxiety on Him because He cares for you.\" 1 Peter 5:7\n\nWhatever is on your heart today, remember that you don’t have to carry it alone. God cares for you and is always near.",
+        "follow-up-2": "Follow Up 2",
+        "follow-up-2.content": "Hello, friend! How have you been these past few days? \nWe’d like to pray for you today. \n\nLoving God, Thank You for the gift of today and for Your unfailing grace that sustains us. Please remind us of Your constant faithfulness and help us to experience Your presence in every moment. May Your peace and love surround us, guiding our hearts and thoughts. We pray this in the name of Jesus, Amen.\n\nRemember, no matter what you’re facing, God is walking with you every step of the way."
     },
     "kb.prayer-requests": {
         "prayers": "Prayers",
@@ -42,9 +46,7 @@
         "broken-heart": "Broken Heart",
         "broken-heart.content": "We praise You, Lord, that You will strengthen us according to Your Word. We need strength today, Lord. Our hearts are heavy and broken. But we praise You for being near the broken in heart! \n“The sacrifices of God are a broken spirit, a broken and a contrite heart—these, O God, You will not despise.” \nPsalm 51:17",
         "never-alone": "Never Alone",
-        "never-alone.content": "We praise You, Lord, that You are near. We praise You for Your arms of love that are around us, holding us, and carrying us. We praise You for the promise that You will never leave us or forsake us. We cling to You! Please heal our hearts! \n\n“That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man.” \nEphesians 3:16",
-        "never-alone2": "Never Alone 2",
-        "never-alone2.content": "We praise You, Lord, that You are near. We praise You for Your arms of love that are around us, holding us, and carrying us. We praise You for the promise that You will never leave us or forsake us. We cling to You! Please heal our hearts! \n\n“That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man.” \nEphesians 3:16"
+        "never-alone.content": "We praise You, Lord, that You are near. We praise You for Your arms of love that are around us, holding us, and carrying us. We praise You for the promise that You will never leave us or forsake us. We cling to You! Please heal our hearts! \n\n“That He would grant you, according to the riches of His glory, to be strengthened with might through His Spirit in the inner man.” \nEphesians 3:16"
     },
     "kb.prayer-requests.prayers.marriage": {
         "show-love": "Show Love",
@@ -208,7 +210,9 @@
         "sex-and-sexuality": "Sex and Sexuality",
         "sin-forgiveness": "Sin/Forgiveness",
         "tithes-and-offerings": "Tithes and Offerings",
-        "trinity": "Trinity"
+        "trinity": "Trinity",
+        "pending-bible-question": "Pending Bible Question",
+        "pending-bible-question.content": "Thank you for sharing your question with us. This is an interesting Bible inquiry. May we take some time to provide you with an answer? Your patience is greatly appreciated."
     },
     "kb.bible-questions.baptism": {
         "infant-baptism": "Baby/Infant Baptism",
