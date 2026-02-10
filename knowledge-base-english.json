@@ -245,7 +245,7 @@
                 "fear":"Fear",
                 "forgiveness":"Forgiveness",
                 "gods-plan":"God's Plan",
-                "healing":"Healing",
+                "health":"Health",
                 "marriage":"Marriage",
                 "salvation":"Salvation"
                 },
@@ -427,7 +427,7 @@
                     "purpose":"Purpose",
                     "purpose.content":"The plans of the LORD stand firm forever, the purposes of His heart through all generations. Psalm 33:11"
                 },
-                "kb.prayer-requests.promises.healing":{
+                "kb.prayer-requests.promises.health":{
                     "renewed-strength":"Renewed Strength",
                     "renewed-strength.content":"But those who wait on the Lord shall renew their strength; they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint. Isaiah 40:31",
                     "restoration":"Restoration",
