@@ -247,9 +247,7 @@
                 "gods-plan":"God's Plan",
                 "healing":"Healing",
                 "marriage":"Marriage",
-                "salvation":"Salvation",
-                
-
+                "salvation":"Salvation"
                 },
                 "kb.prayer-requests.promises.financial-issues": {
                     "ask-god": "Ask God",
@@ -263,9 +261,7 @@
                     "pray-and-believe":"Pray and Believe",
                     "pray-and-believe.content":"Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them. Mark 11:24",
                     "he-meets-our-needs":"He Meets our Needs",
-                    "he-meets-our-needs.content":"And my God will meet all your needs according to the riches of his glory in Christ Jesus. Philippians 4:19",
-"
-"
+                    "he-meets-our-needs.content":"And my God will meet all your needs according to the riches of his glory in Christ Jesus. Philippians 4:19"
                 },
                 "kb.prayer-requests.promises.guidance": {
                     "need-wisdom": "Need Wisdom",
@@ -352,7 +348,6 @@
                     "freedon-in-christ.content":"Stand fast therefore in the liberty by which Christ has made us free, and do not be entangled again with a yoke of bondage. Galatians 5:1",
                     "new-life":"New Life",
                     "new-life.content":"Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new. 2 Corinthians 5:17"
-
                 },
                 "kb.prayer-requests.promises.holy-spirit":{
                     "joy-restored":"Joy Restored",
@@ -361,7 +356,6 @@
                     "outpouring.content":"Turn at My rebuke; surely I will pour out My spirit on you; I will make My words known to you. Proverbs 1:23",
                     "power":"Power",
                     "power.content":"But you shall receive power when the Holy Spirit has come upon you, and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth. Acts 1:8"
-
                 },
                 "kb.prayer-requests.promises.comfort":{
                     "god-is-compassionate":"God is compassionate",
@@ -372,7 +366,6 @@
                     "peace.content":"Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God. Philippians 4:6",
                     "comfort":"Comfort",
                     "comfort.content":"Who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God. 2 Corinthians 1:4"
-
                 },
                 "kb.prayer-requests.promises.deliverance":{
                     "god-is-our-refuge":"God is our Refuge",
@@ -381,7 +374,6 @@
                     "strong-tower.content":"For You have been a shelter for me, a strong tower from the enemy. Psalm 61:3",
                     "protection":"Protection",
                     "protection.content":"The angel of the Lord encamps all around those who fear Him, and delivers them. Psalm 34:7"
-
                 },
                 "kb.prayer-requests.promises.depression":{
                     "mercy":"Mercy",
@@ -392,8 +384,6 @@
                     "refuge-in-trouble.content":"The Lord also will be a refuge for the oppressed, a refuge in times of trouble. Psalm 9:9",
                     "strength":"Strenth",
                     "strength.content":"Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, yes, I will help you, I will uphold you with My righteous right hand. Isaiah 41:10"
-
-
                 },
                 "kb.prayer-requests.promises.faith":{
                     "commitment":"Commitment",
@@ -401,8 +391,7 @@
                     "ask-in-faith":"Ask in Faith",
                     "ask-in-faith.content":"But let him ask in faith, with no doubting, for he who doubts is like a wave of the sea driven and tossed by the wind.James 1:6",
                     "faith-in-god":"Faith in God",
-                    "faith-in-god.content":"For assuredly, I say to you, whoever says to this mountain, 'Be removed and be cast into the sea', and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says. Mark 11:23",
-                    
+                    "faith-in-god.content":"For assuredly, I say to you, whoever says to this mountain, 'Be removed and be cast into the sea', and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says. Mark 11:23"
                 },
                 "kb.prayer-requests.promises.family":{
                     "guidance":"Guidance",
@@ -411,7 +400,6 @@
                     "obedience.content":"You shall therefore keep His statutes and His commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which the Lord your God is giving you for all time. Deuteronomy 4:40",
                     "blessing":"Blessing",
                     "blessing.content":"But the mercy of the Lord is from everlasting to everlasting on those who fear Him, and His righteousness to children’s children. Psalm 103:17"
-
                 },
                 "kb.prayer-requests.promises.fear":{
                     "he-fights-for you":"He fights for you",
@@ -422,7 +410,6 @@
                     "help.content":"For I, the Lord your God, will hold your right hand, saying to you, 'Fear not, I will help you. Isaiah 41:13",
                     "assurance":"Assurance",
                     "assurance.content":"Do not fear, nor be afraid; have I not told you from that time, and declared it? You are My witnesses. Is there a God besides Me? Indeed, there is no other Rock; I know not one. Isaiah 44:8"
-
                 },
                 "kb.prayer-requests.promises.forgiveness":{
                     "god-forgives":"God Forgives",
@@ -467,7 +454,6 @@
                     "eternal-life":"Eternal Life",
                     "eternal-life.content":"And this is the promise that He has promised us eternal life. 1 John 2:25"
                 },          
-
             "kb.prayer-requests.songs": {
                 "hope": "Hope",
                 "guidance": "Guidance",
