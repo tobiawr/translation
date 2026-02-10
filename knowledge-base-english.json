@@ -234,7 +234,22 @@
                 "protection": "Protection",
                 "help": "Help",
                 "god-is-faithful": "God is faithful",
-                "christian-life": "Christian life"
+                "christian-life": "Christian life",
+                "addiction":"Addiction",
+                "holy-spirit":"Holy Spirit",
+                "comfort":"Comfort",
+                "deliverance":"Deliverance",
+                "Depression":"Depression",
+                "faith":"faith",
+                "family":"Family",
+                "fear":"Fear",
+                "forgiveness":"Forgiveness",
+                "gods-plan":"God's Plan",
+                "healing":"Healing",
+                "marriage":"Marriage",
+                "salvation":"Salvation",
+                
+
                 },
                 "kb.prayer-requests.promises.financial-issues": {
                     "ask-god": "Ask God",
@@ -242,7 +257,15 @@
                     "god-blesses": "God blessses",
                     "god-blesses.content": "The Lord has been mindful of us; he will bless us. \n\nPsalm 115:12",
                     "god-is-concerned": "God is concerned",
-                    "god-is-concerned.content": "Let him have all your worries and cares, for he is always thinking about you and watching everything that concerns you. \n\n1. Peter 5:7"
+                    "god-is-concerned.content": "Let him have all your worries and cares, for he is always thinking about you and watching everything that concerns you. \n\n1. Peter 5:7",
+                    "god-provides":"God Provides",
+                    "god-provides.content":"And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.2 Corinthians 9:8",
+                    "pray-and-believe":"Pray and Believe",
+                    "pray-and-believe.content":"Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them. Mark 11:24",
+                    "he-meets-our-needs":"He Meets our Needs",
+                    "he-meets-our-needs.content":"And my God will meet all your needs according to the riches of his glory in Christ Jesus. Philippians 4:19",
+"
+"
                 },
                 "kb.prayer-requests.promises.guidance": {
                     "need-wisdom": "Need Wisdom",
@@ -322,6 +345,129 @@
                     "toil-is-not-in-vain": "Toil is not vain",
                     "toil-is-not-in-vain.content": "Therefore, my beloved brethren, be steadfast, immovable, always abounding in the work of the Lord, knowing that your toil is not in vain in the Lord. \n\n1. Corinthians 15:58"
                 },
+                "kb.prayer-requests.promises.addiction":{
+                    "god-delivers":"God Delivers",
+                    "god-delivers.content":"Call upon Me in the day of trouble; I will deliver you, and you shall glorify Me.Psalm 50:15",
+                    "freedon-in-christ":"Freedom in Christ",
+                    "freedon-in-christ.content":"Stand fast therefore in the liberty by which Christ has made us free, and do not be entangled again with a yoke of bondage. Galatians 5:1",
+                    "new-life":"New Life",
+                    "new-life.content":"Therefore, if anyone is in Christ, he is a new creation; old things have passed away; behold, all things have become new. 2 Corinthians 5:17"
+
+                },
+                "kb.prayer-requests.promises.holy-spirit":{
+                    "joy-restored":"Joy Restored",
+                    "joy-restored.content":"Restore to me the joy of Your salvation, and uphold me by Your generous Spirit. Psalm 51:12",
+                    "outpouring":"Outpouring",
+                    "outpouring.content":"Turn at My rebuke; surely I will pour out My spirit on you; I will make My words known to you. Proverbs 1:23",
+                    "power":"Power",
+                    "power.content":"But you shall receive power when the Holy Spirit has come upon you, and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth. Acts 1:8"
+
+                },
+                "kb.prayer-requests.promises.comfort":{
+                    "god-is-compassionate":"God is compassionate",
+                    "god-is-compassionate.content":"But You, O Lord, are a God full of compassion, and gracious, longsuffering and abundant in mercy and truth. Psalm 86:15",
+                    "rest":"Rest",
+                    "rest.content":"Come to Me, all you who labor and are heavy laden, and I will give you rest. Matthew 11:28",
+                    "peace":"Peace",
+                    "peace.content":"Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God. Philippians 4:6",
+                    "comfort":"Comfort",
+                    "comfort.content":"Who comforts us in all our tribulation, that we may be able to comfort those who are in any trouble, with the comfort with which we ourselves are comforted by God. 2 Corinthians 1:4"
+
+                },
+                "kb.prayer-requests.promises.deliverance":{
+                    "god-is-our-refuge":"God is our Refuge",
+                    "god-is-our-refuge.content":"The eternal God is your refuge, and underneath are the everlasting arms; He will thrust out the enemy from before you, and will say, ‘Destroy! Deuteronomy 33:27",
+                    "strong-tower":"Strong Tower",
+                    "strong-tower.content":"For You have been a shelter for me, a strong tower from the enemy. Psalm 61:3",
+                    "protection":"Protection",
+                    "protection.content":"The angel of the Lord encamps all around those who fear Him, and delivers them. Psalm 34:7"
+
+                },
+                "kb.prayer-requests.promises.depression":{
+                    "mercy":"Mercy",
+                    "mercy.content":"Through the Lord’s mercies we are not consumed, because His compassions fail not. They are new every morning; great is Your faithfulness. Lamentations 3:22-23",
+                    "he-hears":"He Hears",
+                    "he-hears.content":"I waited patiently for the Lord, and He inclined to me, and heard my cry. Psalms 40:1",
+                    "refuge-in-trouble":"Refuge in Trouble",
+                    "refuge-in-trouble.content":"The Lord also will be a refuge for the oppressed, a refuge in times of trouble. Psalm 9:9",
+                    "strength":"Strenth",
+                    "strength.content":"Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, yes, I will help you, I will uphold you with My righteous right hand. Isaiah 41:10"
+
+
+                },
+                "kb.prayer-requests.promises.faith":{
+                    "commitment":"Commitment",
+                    "commitment.content":"Commit your way to the Lord, trust also in Him, and He shall bring it to pass. Psalm 37:5",
+                    "ask-in-faith":"Ask in Faith",
+                    "ask-in-faith.content":"But let him ask in faith, with no doubting, for he who doubts is like a wave of the sea driven and tossed by the wind.James 1:6",
+                    "faith-in-god":"Faith in God",
+                    "faith-in-god.content":"For assuredly, I say to you, whoever says to this mountain, 'Be removed and be cast into the sea', and does not doubt in his heart, but believes that those things he says will be done, he will have whatever he says. Mark 11:23",
+                    
+                },
+                "kb.prayer-requests.promises.family":{
+                    "guidance":"Guidance",
+                    "guidance.content":"Train up a child in the way he should go, and when he is old, he will not depart from it. Proverbs 22:6",
+                    "obedience":"Obedience",
+                    "obedience.content":"You shall therefore keep His statutes and His commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which the Lord your God is giving you for all time. Deuteronomy 4:40",
+                    "blessing":"Blessing",
+                    "blessing.content":"But the mercy of the Lord is from everlasting to everlasting on those who fear Him, and His righteousness to children’s children. Psalm 103:17"
+
+                },
+                "kb.prayer-requests.promises.fear":{
+                    "he-fights-for you":"He fights for you",
+                    "he-fights-for you.content":"The Lord will fight for you, and you shall hold your peace. Exodus 14:14",
+                    "courage":"Courage",
+                    "courage.content":"Be strong and of good courage, do not fear nor be afraid of them; for the Lord your God, He is the One who goes with you. He will not leave you nor forsake you. Deuteronomy 31:6",
+                    "help":"Help",
+                    "help.content":"For I, the Lord your God, will hold your right hand, saying to you, 'Fear not, I will help you. Isaiah 41:13",
+                    "assurance":"Assurance",
+                    "assurance.content":"Do not fear, nor be afraid; have I not told you from that time, and declared it? You are My witnesses. Is there a God besides Me? Indeed, there is no other Rock; I know not one. Isaiah 44:8"
+
+                },
+                "kb.prayer-requests.promises.forgiveness":{
+                    "god-forgives":"God Forgives",
+                    "god-forgives.content":"If My people who are called by My name will humble themselves, and pray and seek My face, and turn from their wicked ways, then I will hear from heaven, and will forgive their sin and heal their land. 2 Chronicles 7:14",
+                    "abundant-mercy":"Abundant Mercy",
+                    "abundant-mercy.content":"For You, Lord, are good, and ready to forgive, and abundant in mercy to all those who call upon You. Psalm 86:5",
+                    "confess":"Confess",
+                    "confess.content":"If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness. 1 John 1:9"
+                },
+                "kb.prayer-requests.promises.gods-plan":{
+                    "he-goes-before-you":"He goes before you",
+                    "he-goes-before-you.content":"It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed. Deuteronomy 31:8",
+                    "for-your-good":"For your Good",
+                    "for-your-good.content":"For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, plans to give you hope and a future. Jeremiah 29:11",
+                    "purpose":"Purpose",
+                    "purpose.content":"The plans of the LORD stand firm forever, the purposes of His heart through all generations. Psalm 33:11"
+                },
+                "kb.prayer-requests.promises.healing":{
+                    "renewed-strength":"Renewed Strength",
+                    "renewed-strength.content":"But those who wait on the Lord shall renew their strength; they shall mount up with wings like eagles, they shall run and not be weary, they shall walk and not faint. Isaiah 40:31",
+                    "restoration":"Restoration",
+                    "restoration.content":"For I will restore health to you and heal you of your wounds,’ says the Lord. Jeremiah 30:17",
+                    "heal-me":"Heal Me",
+                    "heal-me.content":"Heal me, O Lord, and I shall be healed; save me, and I shall be saved, for You are my praise. Jeremiah 17:14",
+                    "healing-in-christ":"But He was wounded for our transgressions, He was bruised for our iniquities; the chastisement for our peace was upon Him, and by His stripes we are healed. Isaiah 53:5"
+                },
+                "kb.prayer-requests.promises.marriage":{
+                    "helper-in-life":"Helper in Life",
+                    "helper-in-life.content":"And the Lord God said, It is not good that man should be alone; I will make him a helper comparable to him. Genesis 2:18",
+                    "love-in-action":"Love in Action",
+                    "love-in-action.content":"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.1 Corinthians 13:4-7",
+                    "favor":"Favor",
+                    "favor.content":"He who finds a wife finds what is good and receives favor from the Lord. Proverbs 18:22"
+                },
+                "kb.prayer-requests.promises.salvation":{
+                    "saved":"Saved",
+                    "saved.content":"As for me, I will call upon God, and the Lord shall save me. Psalm 55:16",
+                    "find-god":"Find God",
+                    "find-god.content":"And you will seek Me and find Me, when you search for Me with all your heart. Jeremiah 29:13",
+                    "jesus-saves":"Jesus Saves",
+                    "jesus-saves.content":"For the Son of Man has come to seek and to save that which was lost. Luke 19:10",
+                    "eternal-life":"Eternal Life",
+                    "eternal-life.content":"And this is the promise that He has promised us eternal life. 1 John 2:25"
+                },          
+
             "kb.prayer-requests.songs": {
                 "hope": "Hope",
                 "guidance": "Guidance",
