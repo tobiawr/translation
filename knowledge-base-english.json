@@ -14,7 +14,7 @@
             "prayer": "Prayer Introduction",
             "prayer.content": "Hi, {contact}. Thank you for reaching us in your need of prayer. I am {user} and am glad to be your prayer partner. Please let me pray with you now.\n",
             "first-message": "First Message",
-            "first-message.content": "Hello, {contact}. Thank you for reaching out ot us. How may we help you today?",
+            "first-message.content": "Hello, {contact}. Thank you for reaching out to us. How may we help you today?",
             "follow-up-1": "Follow Up 1",
             "follow-up-1.content": "Hello, friend! It’s been a while since we last connected, and we’d like to know how you’ve been doing lately.\n\nWe are here to share a gentle reminder from God’s Word with you today: \"Cast all your anxiety on Him because He cares for you.\" 1 Peter 5:7\n\nWhatever is on your heart today, remember that you don’t have to carry it alone. God cares for you and is always near.",
             "follow-up-2": "Follow Up 2",
@@ -49,7 +49,7 @@
                 "natural-disasters":"Natural Disasters",
                 "non-sda-partner":"Non-SDA Partner",
                 "future-plans":"Future Plans",
-                "porn-addiction":"Porn Addcition",
+                "porn-addiction":"Porn Addiction",
                 "property-stewardship":"Property/Stewardship",
                 "protection-safety":"Protection/Safety",
                 "salvation":"Salvation",
@@ -92,17 +92,17 @@
                     "love": "Love",
                     "love.content": "Dear Heavenly Father, we praise You and thank You for Your everlasting love. We thank You for the gift of family. We thank You that because of Your love, we are able to love others. We pray that You would help us be kind to one another, showing each other mercy, forgiveness, and understanding. Help us to share the love You’ve so generously shared with us. As a family, may we treat each other with compassion. Show us any areas where our hearts need to change or repent. May we so freely offer forgiveness to our family and friends as you so freely forgive us. All these things we pray, in Jesus' name, Amen. \n\nAnd be kind to one another, tenderhearted, forgiving one another, even as God in Christ forgave you.\nEphesians 4:32",
                     "peace": "Peace",
-                    "peace.content": "We praise and thank You that You are the God of peace. We thank You that even when the earth is trembling, we can be still and know You are God. Nothing can separate us from You. We praise You for your protection and favor. As we sit in Your presence, may You help us in our family to focus our hearts and minds on You. May You give us Your perfect peace. We trust that no matter what, You will guide us every step of the way. In Jesus' name, we pray, amen. \n\n\"May the Lord bless you and protect you. May the Lord smile on you and be gracious to you. May the Lord show you his favor and give you his peace.\" Numbers 6:24-26",
+                    "peace.content": "We praise and thank You that You are the God of peace. We thank You that even when the earth is trembling, we can be still and know You are God. Nothing can separate us from You. We praise You for Your protection and favor. As we sit in Your presence, may You help us in our family to focus our hearts and minds on You. May You give us Your perfect peace. We trust that no matter what, You will guide us every step of the way. In Jesus' name, we pray, Amen.",
                     "harmony": "Harmony",
                     "harmony.content": "We praise You, Father, for You are the God of love and order. Dear Lord, we pray for our heart's desire in our family to live in harmony and unity with one other. May You bind Your love to our hearts so we can live in perfect unity together. May You help and teach us to care for our family members and forgive others for their mistakes. We ask this humbly, in Jesus' name, Amen. \n\nBear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you. And over all these virtues put on love, which binds them all together in perfect unity. Colossians 3:13-14"
                 },
                 "kb.prayer-requests.prayers.church":{
                     "church-brethren":"Church Brethren",
-                    "church-brethren.content":"Heavenly Father, we come to You today to ask for Your guidance. We thank You for Your infinite grace and mercy. Today, we lift our church brethren to You. We pray that You strengthen and guide our fellow brothers and sisters. Bestow upon them Your blessing. May Your spirit ever be within their hearts, and may they be able to transform that love into ministry. Thank You for all You have done; in Your name, we pray, Amen."
+                    "church-brethren.content":"Heavenly Father, we come to You today to ask for Your guidance. We thank You for Your infinite grace and mercy. Today, we lift our church brethren to You. We pray that You strengthen and guide our fellow brothers and sisters. Bestow upon them Your blessing. May Your Spirit ever be within their hearts, and may they be able to transform that love into ministry. Thank You for all You have done; in Your name, we pray, Amen."
                 }, 
                 "kb.prayer-requests.prayers.alcohol":{
                     "alcohol-smoking":"Alcohol/Smoking/Drugs",
-                    "alcohol-smoking.content":"Heavenly Father, we come to You today to ask for Your healing. We thank You for Your blessing. Life can be complicated and can lead us to make some questionable choices. We pray for those who struggle with unhealthy habits.We pray that these people may see the detriment to their health. We pray that You touch their hearts and inspire them to change and make better choices. May they find hope beyond the bottom of a bottle. May You show mercy and bestow upon them the love they seek. Forgive us for our sins, and we ask all these trusting and believing in Your name, Amen."
+                    "alcohol-smoking.content":"Heavenly Father, we come to You today to ask for Your healing. We thank You for Your blessing. Life can be complicated and can lead us to make some questionable choices. We pray for those who struggle with unhealthy habits. We pray that these people may see the detriment to their health. We pray that You touch their hearts and inspire them to change and make better choices. May they find hope beyond the bottom of a bottle. May You show mercy and bestow upon them the love they seek. Forgive us for our sins, and we ask all these things, trusting and believing in Your name, Amen."
                 },
                 "kb.prayer-requests.prayers.anger":{
                     "change-of-hearts":"Change of Hearts",
@@ -134,7 +134,7 @@
                 },
                 "kb.prayer-requests.prayers.depression":{
                     "rest-in-god":"Rest in God",
-                    "rest-in-god.content":"Dear Heavenly Father. We pray for {contact}'s heart, who is calling You. Please give them the comfort that they need. We trust in your promise: \nCome to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you… And you will find rest for your souls. For my yoke is easy, and my burden is light. Matthew 11:28-30.\n We trust in your love and lean on it; in Jesus' name, we pray. Amen."
+                    "rest-in-god.content":"Dear Heavenly Father. We pray for {contact}'s heart, who is calling You. Please give them the comfort that they need. We trust in Your promise: \nCome to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you… And you will find rest for your souls. For my yoke is easy, and my burden is light. Matthew 11:28-30.\n We trust in your love and lean on it; in Jesus' name, we pray. Amen."
                 },
                 "kb.prayer-requests.prayers.direction-guidance":{
                     "wisdom-in-god":"Wisdom in God",
@@ -162,11 +162,11 @@
                 },
                 "kb.prayer-requests.prayers.non-sda-partner":{
                     "discerning-god's-will":"Discerning God's Will",
-                    "discerning-god's-will.content":"Loving and Great God , we come before You, knowing You love us and want the best for us, even our relationships. We come to intercede for {contact}, who is struggling with deciding whether to pursue a non-SDA partner. Please grant them the power to do what is right, even if it will be a tough decision for them now. Assure them that You have the best plan and purpose for them, with a partner from You. Give the wisdom to discern whether a relationship is genuinely aligned with your will or whether it would lead them away from You. Remind them that although very painful, it is better to break a heart now than have it broken all their lifetime. May contact} also choose not to break Your heart. In Jesus' name, Amen."
+                    "discerning-god's-will.content":"Loving and Great God , we come before You, knowing You love us and want the best for us, even our relationships. We come to intercede for {contact}, who is struggling with deciding whether to pursue a non-SDA partner. Please grant them the power to do what is right, even if it will be a tough decision for them now. Assure them that You have the best plan and purpose for them, with a partner from You. Give the wisdom to discern whether a relationship is genuinely aligned with your will or whether it would lead them away from You. Remind them that although very painful, it is better to break a heart now than have it broken all their lifetime. May {contact} also choose not to break Your heart. In Jesus' name, Amen."
                 },
                 "kb.prayer-requests.prayers.future-plans":{
-                    "commiting-plans-to-god":"Commiting plans to God",
-                    "commoting-plans-to-god.content":"Dear God, today, we pray for {contact} and his/her future. We believe Your assurance in Proverbs 16:3 that we should commit our work to You, and our plans will be established. Nevertheless, Father, may Your will be done always. Please help contact} to trust in You with all their heart and lean not on their own understanding, for Your ways are better than ours. In Jesus' name. Amen."
+                    "committing-plans-to-god":"Committing plans to God",
+                    "committing-plans-to-god.content":"Dear God, today, we pray for {contact} and his/her future. We believe Your assurance in Proverbs 16:3 that we should commit our work to You, and our plans will be established. Nevertheless, Father, may Your will be done always. Please help {contact} to trust in You with all their heart and lean not on their own understanding, for Your ways are better than ours. In Jesus' name. Amen."
                 },
                 "kb.prayer-requests.prayers.porn-addiction":{
                     "healing-and-restoration":"Healing and Restoration",
@@ -186,7 +186,7 @@
                 },
                 "kb.prayer-requests.prayers.spiritual-growth":{
                     "growth":"Growth",
-                    "growth.content":"Dear God in Heaven. We take this time to thank you for everything you have done for our friend, {contact}. Lord, they seek spiritual growth. We pray that You pour Your Holy Spirit upon them to continue convicting them; we ask for more wisdom. We pray You bless contact} in Jesus' name, Amen."
+                    "growth.content":"Dear God in Heaven. We take this time to thank you for everything you have done for our friend, {contact}. Lord, they seek spiritual growth. We pray that You pour Your Holy Spirit upon them to continue convicting them; we ask for more wisdom. We pray You bless {contact} in Jesus' name, Amen."
                 },
                 "kb.prayer-requests.prayers.suicidal-thoughts":{
                     "support":"Support",
@@ -194,11 +194,11 @@
                 },
                 "kb.prayer-requests.prayers.thanksgiving":{
                     "answered-prayer":"Answered Prayer",
-                    "answered-prayer.content":"Dear God, we want to take this time to thank You for answering our friend's prayer request. We thank You for everything You have done in the life of {contact}. Lord, you are indeed amazing and worthy to be praised. Thank you for loving us and always being there for him/her. We pray this with good thanksgiving in our hearts. In Jesus' name, Amen."
+                    "answered-prayer.content":"Dear God, we want to take this time to thank You for answering our friend's prayer request. We thank You for everything You have done in the life of {contact}. Lord, You are indeed amazing and worthy to be praised. Thank you for loving us and always being there for him/her. We pray this with good thanksgiving in our hearts. In Jesus' name, Amen."
                 },
                 "kb.prayer-requests.prayers.travel":{
                     "traveling-mercies":"Traveling Mercies",
-                    "trvaeling-mercies.content":"Eternal Father in heaven, thank you for the life of {contact}. Lord, we pray for traveling mercies that they may travel well. We ask that you be with the person driving, guide them, and grant them a safe passage. We pray this in Jesus' name, Amen."
+                    "traveling-mercies.content":"Eternal Father in heaven, thank You for the life of {contact}. Lord, we pray for traveling mercies that they may travel well. We ask that you be with the person driving, guide them, and grant them a safe passage. We pray this in Jesus' name, Amen."
                 },
                 "kb.prayer-requests.prayers.trials":{
                     "difficult-times":"Difficult Times",
@@ -218,7 +218,7 @@
                 },
                 "kb.prayer-requests.prayers.spiritual-battle":{
                     "encouragement":"Encouragement",
-                    "encouragement.content":"Dear Heavenly Father, we thank You for being a loving God. We pray for{contact}, who faces battles beyond human comprehension. It may seem like people don't care about his/her} struggles, but we know it affects You as much as him/her. We claim the promise in Isaiah 41:30: But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. We ask that You provide him/her the strength to overcome the battles. In Jesus' name, we pray, Amen."
+                    "encouragement.content":"Dear Heavenly Father, we thank You for being a loving God. We pray for {contact}, who faces battles beyond human comprehension. It may seem like people don't care about his/her struggles, but we know it affects You as much as him/her. We claim the promise in Isaiah 40:31: But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint. We ask that You provide him/her the strength to overcome the battles. In Jesus' name, we pray, Amen."
                 },
                 "kb.prayer-requests.prayers.terminal-illness":{
                     "healing":"Healing",
@@ -239,7 +239,7 @@
                 "holy-spirit":"Holy Spirit",
                 "comfort":"Comfort",
                 "deliverance":"Deliverance",
-                "Depression":"Depression",
+                "depression":"Depression",
                 "faith":"Faith",
                 "family":"Family",
                 "fear":"Fear",
@@ -252,12 +252,12 @@
                 "kb.prayer-requests.promises.financial-issues": {
                     "ask-god": "Ask God",
                     "ask-god.content": "Until now you have asked for nothing in my name; ask, and you will receive, that your joy may be made full. \n\nJohn 16:24",
-                    "god-blesses": "God blessses",
+                    "god-blesses": "God blesses",
                     "god-blesses.content": "The Lord has been mindful of us; he will bless us. \n\nPsalm 115:12",
                     "god-is-concerned": "God is concerned",
-                    "god-is-concerned.content": "Let him have all your worries and cares, for he is always thinking about you and watching everything that concerns you. \n\n1. Peter 5:7",
+                    "god-is-concerned.content": "Let him have all your worries and cares, for he is always thinking about you and watching everything that concerns you. \n\n1 Peter 5:7",
                     "god-provides":"God Provides",
-                    "god-provides.content":"And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.2 Corinthians 9:8",
+                    "god-provides.content":"And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work. 2 Corinthians 9:8",
                     "pray-and-believe":"Pray and Believe",
                     "pray-and-believe.content":"Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them. Mark 11:24",
                     "he-meets-our-needs":"He Meets our Needs",
@@ -291,7 +291,7 @@
                     "conquerors": "Conquerors",
                     "conquerors.content": "In all these things we are more than conquerors, through him that loved us. Romans 8:37",
                     "rescue-from-temptation": "Rescue from Temptation",
-                    "rescue-from-temptation.content": "The Lord can rescue you and me from the temptations that surround us. 2. Peter 2:9",
+                    "rescue-from-temptation.content": "The Lord can rescue you and me from the temptations that surround us. 2 Peter 2:9",
                     "freedom-from-satan": "Freedom from Satan",
                     "freedom-from-satan.content": "Resist the devil, and he will flee from you. James 4:7"
                 },
@@ -317,7 +317,7 @@
                 },
                 "kb.prayer-requests.promises.help": {
                     "count-on-god": "Count on God",
-                    "count-on-god.content": "All those who know your mercy, Lord, will count on you for help. For you have never forsaken those who trust in you. \n\nPsalm 9:1O",
+                    "count-on-god.content": "All those who know your mercy, Lord, will count on you for help. For you have never forsaken those who trust in you. \n\nPsalm 9:10",
                     "do-not-fear": "Do not fear",
                     "do-not-fear.content": "For I am the Lord your God, who upholds your right hand, who says to you, do not fear, I will help you. \n\nIsaiah 41:13",
                     "times-of-trouble": "Times of trouble",
@@ -382,7 +382,7 @@
                     "he-hears.content":"I waited patiently for the Lord, and He inclined to me, and heard my cry. Psalms 40:1",
                     "refuge-in-trouble":"Refuge in Trouble",
                     "refuge-in-trouble.content":"The Lord also will be a refuge for the oppressed, a refuge in times of trouble. Psalm 9:9",
-                    "strength":"Strenth",
+                    "strength":"Strength",
                     "strength.content":"Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, yes, I will help you, I will uphold you with My righteous right hand. Isaiah 41:10"
                 },
                 "kb.prayer-requests.promises.faith":{
@@ -441,7 +441,7 @@
                     "helper-in-life":"Helper in Life",
                     "helper-in-life.content":"And the Lord God said, It is not good that man should be alone; I will make him a helper comparable to him. Genesis 2:18",
                     "love-in-action":"Love in Action",
-                    "love-in-action.content":"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.1 Corinthians 13:4-7",
+                    "love-in-action.content":"Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres. 1 Corinthians 13:4-7",
                     "favor":"Favor",
                     "favor.content":"He who finds a wife finds what is good and receives favor from the Lord. Proverbs 18:22"
                 },
@@ -486,9 +486,9 @@
                 },
             "kb.prayer-requests.intro-to-prayers": {
                 "option-1": "Option 1",
-                "option-1.content": "We appreciate you sharing your prayer request with us, ﻿﻿{contact}. At this time, we would like to offer a prayer for you:",
+                "option-1.content": "We appreciate you sharing your prayer request with us, {contact}. At this time, we would like to offer a prayer for you:",
                 "option-2": "Option 2",
-                "option-2.content": "Thank you for entrusting your prayer request to us, ﻿﻿{contact}. Let us come to God and bring all these things to the foot of the cross. Let us pray:",
+                "option-2.content": "Thank you for entrusting your prayer request to us, {contact}. Let us come to God and bring all these things to the foot of the cross. Let us pray:",
                 "option-3": "Option 3",
                 "option-3.content": "Hello, {contact}. Thank you for your prayer request. We value your sincerity. At this moment, we’d like to offer a prayer for you:",
                 "option-4": "Option 4",
@@ -735,8 +735,8 @@
         "prophetic-symbols-chart.content": "Are you wondering what are the signs of His soon return? Here is a chart of prophetic symbols: https://connect.awr.org/hubfs/Giveaways/Chart-of-Prophetic-Symbols.pdf that I hope will be helpful for you in finding an answer. God bless you!",
         "more-books": "More books",
         "more-books.content": "Are you looking for more books that could give you hope and bring you closer to the Savior? Please visit this link: https://whiteestate.org/books/egw-books/ and continue growing in faith. Be blessed!",
-        "the-great-controvery-website": "Great Controversy Website",
-        "the-great-controvery-website.content": "Glad you’re interested to learn more about the book: The Great Controvery! You can read \"The Great Controversy\" e-book through this link: https://greatcontroversy.awr.org and find more insights about the book.",
+        "the-great-controversy-website": "Great Controversy Website",
+        "the-great-controversy-website.content": "Glad you’re interested to learn more about the book: The Great Controversy! You can read \"The Great Controversy\" e-book through this link: https://greatcontroversy.awr.org and find more insights about the book.",
         "bible-reading-plan": "Bible Reading Plan",
         "bible-reading-plan.content": "Here's a Bible reading plan to guide you in reading your Bible: https://www.amazingfacts.org/bible-study/bible-reading-plan.",
         "chart-link-end-time-events": "Chart Link-End Time Events",
